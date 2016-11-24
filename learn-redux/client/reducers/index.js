@@ -7,5 +7,3 @@ import comments from './comments';
 const rootReducer = combineReducers({posts, comments, routing: routerReducer });
 
 export default rootReducer;
-
-
